@@ -28,7 +28,7 @@ pQIDAQAB
 -----END PUBLIC KEY-----
 
 Command and Control IP address
-198.46.158[.]172
+198.46.158.172
 	First: January 3, 2024
 	Last: April 21, 2024
 X.509 Sha256 Fingerprint
